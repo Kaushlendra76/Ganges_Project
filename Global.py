@@ -1,0 +1,40 @@
+
+global mac_Dict
+global sno_Dict
+global MAC_DICT
+global SNo_DICT
+global myMAC
+global DeviceReg
+global newmac_Dict
+global timetosendflag
+global livestaticcount
+global timestaticcount
+global configstaticcount
+global ledstatusstaticcount
+global registerstaticcount
+global DiagID
+global Diagcommand
+global livelist
+global ledID
+global ledcommand
+global registerdict
+
+global xbeeindex
+global _mqttclient
+global index
+global mqtt_topic
+global mqtt_message
+global payload
+global macData
+global devicedata
+global logger
+global Liveflag
+global RegcommandID
+global Regcommand
+global current_time
+global livepackets_list
+global livepacketindex
+global Device_livvepackets
+global password
+global username
+
